@@ -1,0 +1,13 @@
+{
+  "name": "@ut/module-b",
+  "main": "./index.tsx",
+  "module": "./index.tsx",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
